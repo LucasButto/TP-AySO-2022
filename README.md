@@ -63,7 +63,7 @@ kubectl apply -f docker-prueba.yaml
 minikube dashboard
 
 
-#=============== Collaborators: ===============
+#=============== Collaborators: =============== <br>
 -Bortoli Gastón        | https://github.com/juaanig  <br>
 -Butto Lucas           | https://github.com/LucasButto <br>
 -Garnero Juan Ignacio  | https://github.com/Bortoli94 <br>
