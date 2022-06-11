@@ -64,9 +64,9 @@ minikube dashboard
 
 
 #=============== Collaborators: ===============
--Bortoli Gastón        | https://github.com/juaanig 
--Butto Lucas           | https://github.com/LucasButto
--Garnero Juan Ignacio  | https://github.com/Bortoli94
--Mule Francisco	       | https://github.com/franmux01
--Kraus Herman          | https://github.com/hermankraus
+-Bortoli Gastón        | https://github.com/juaanig  <br>
+-Butto Lucas           | https://github.com/LucasButto <br>
+-Garnero Juan Ignacio  | https://github.com/Bortoli94 <br>
+-Mule Francisco	       | https://github.com/franmux01 <br>
+-Kraus Herman          | https://github.com/hermankraus <br>
 #==============================================
