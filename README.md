@@ -21,16 +21,17 @@ INTRODUCTION
 
 0) ONCE WE ENTER THE CONSOLE, WE GO TO THE FOLDER TO WORK WITH
 
-pwd 
-/home/juani
-cd nginx
+pwd <br>
+/home/juani <br>
+cd nginx 
 
 1) CREATE INDEX.HTML
 sudo vim index.html
 
 2) CREATE DOCKERFILE
 sudo vim.Dockerfile
-A partir de este archivo buildeamos una imagen con el tag "v1"
+
+2)A) ONCE WE HAVE THIS FILE, WE ARE ABLE TO BUILD AN IMAGE WITH THE TAG "V1"
 docker build --tag v1 .
 
 3) CREATE A CONTAINER TO TEST TE IMAGE
@@ -64,9 +65,9 @@ minikube dashboard
 
 
 #=============== Collaborators: =============== <br>
--Bortoli Gastón        | https://github.com/juaanig  <br>
+-Garnero Juan Ignacio  | https://github.com/juaanig  <br>
 -Butto Lucas           | https://github.com/LucasButto <br>
--Garnero Juan Ignacio  | https://github.com/Bortoli94 <br>
+-Bórtoli Gastón	       | https://github.com/Bortoli94 <br>
 -Mule Francisco	       | https://github.com/franmux01 <br>
 -Kraus Herman          | https://github.com/hermankraus <br>
 #==============================================
