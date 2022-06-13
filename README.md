@@ -19,8 +19,11 @@ Tips:
 
 INTRODUCTION
 
-0) ONCE WE ENTER THE CONSOLE, WE GO TO THE FOLDER TO WORK WITH
+ONCE WE ENTER THE CONSOLE, WE CREATE THE FOLDER "nginx" TO WORK WITH IT <br>
+---REMINDER--- <br>
+TO CREATE A FOLDER YOU NEED TO USE THE COMMAND * mkdir "FolderName" * <br>
 
+WE ARE ABLE TO FIND THE FOLDER FOLLOWING THE NEXT COMMANDS TO SEE THE PATH IN OUR SYSTEM <br>
 pwd <br>
 /home/juani <br>
 cd nginx 
@@ -29,7 +32,7 @@ cd nginx
 sudo vim index.html
 
 2) CREATE DOCKERFILE <br>
-sudo vim.Dockerfile
+sudo vim Dockerfile
 
 3) ONCE WE HAVE THIS FILE, WE ARE ABLE TO BUILD AN IMAGE WITH THE TAG "V1" <br>
 docker build --tag v1 .
